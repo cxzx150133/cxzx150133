@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Blog
+
++ https://gpler.ml/
++ https://www.cnblogs.com/unixart/
+
+## Social contact
+
++ V2EX [@GPLer](https://v2ex.com/member/GPLer)
+
+
+## Contact me
+
++ GPLer@qq.com
