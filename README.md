@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Blog
 
-+ https://gpler.ml/
++ https://gpler.com/
 + https://www.cnblogs.com/unixart/
 
 ## Social contact
